@@ -11,9 +11,10 @@ A collection of hands-on **Machine Learning projects** built using different alg
 
 ## 📂 Projects
 
-| #   | Project                                             | Algorithms        |
-| --- | --------------------------------------------------- | ----------------- |
-| 01  | [House Price Prediction](./House-Price-Prediction/) | Linear Regression |
+| #   | Project                                                           | Algorithms          |
+| --- | ----------------------------------------------------------------- | ------------------- |
+| 01  | [House Price Prediction](./House-Price-Prediction/)               | Linear Regression   |
+| 02  | [Employee Attrition Prediction](./Employee_Attrition_Prediction/) | Logistic Regression |
 
 ## 🛠️ Tech Stack
 
