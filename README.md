@@ -11,10 +11,11 @@ A collection of hands-on **Machine Learning projects** built using different alg
 
 ## 📂 Projects
 
-| #   | Project                                                           | Algorithms          |
-| --- | ----------------------------------------------------------------- | ------------------- |
-| 01  | [House Price Prediction](./House-Price-Prediction/)               | Linear Regression   |
-| 02  | [Employee Attrition Prediction](./Employee_Attrition_Prediction/) | Logistic Regression |
+| S.No. | Project Name                  |
+| ----- | ----------------------------- |
+| 01    | House Price Prediction        |
+| 02    | Employee Attrition Prediction |
+| 03    | Iris Species Classification   |
 
 ## 🛠️ Tech Stack
 
@@ -24,4 +25,6 @@ A collection of hands-on **Machine Learning projects** built using different alg
 - Scikit-learn
 - Jupyter Notebook
 
-**Learning by implementing, experimenting, and building.** 🚀
+## 👨‍💻 Author
+
+**Manasvi Patidar**
